@@ -36,3 +36,7 @@ Dependency requirements can be found in 'environment.yml'
 
 Use a conda environment to install the required libraries:
 `$ conda env create -f environment.yml`
+
+```shell
+pip install dicom
+```
